@@ -2,7 +2,7 @@
 
 An AI-powered solution for optimizing traffic flow, predicting congestion, and suggesting eco-friendly routes, designed to reduce emissions and fuel consumption.
 
-*Developed for the Google Developer Student Clubs (GDSC) GDG Hackathon.*
+*Developed for the Google Developer Student Clubs (GDSC) BitNBuild Hackathon.*
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
