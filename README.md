@@ -42,8 +42,8 @@ An AI-powered solution for optimizing traffic flow, predicting congestion, and s
 1. **Run the `code.py` Notebook**:  
    Simply execute the `code.py` notebook to get started with the project.  
 
-   `bash
-   python code.py`
+   
+   ```python code.py```
 ---
 
 ## Dataset
