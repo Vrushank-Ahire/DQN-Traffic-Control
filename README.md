@@ -28,13 +28,7 @@ An AI-powered solution for optimizing traffic flow, predicting congestion, and s
 
 ## Technologies Used
 
-- **Reinforcement Learning Framework**: Deep Q-Networks (DQN)
-- **Programming Language**: Python
-- **Libraries**: 
-  - TensorFlow or PyTorch
-  - NumPy, Pandas, Matplotlib
-  - OpenAI Gym for simulations
-
+- **Reinforcement Learning Framework**: Deep Q-Networks (DQN
 ---
 
 ## Getting Started
@@ -67,19 +61,5 @@ Contributions are welcome! Here's how you can help:
 Feel free to open an issue for suggestions or bug reports.
 
 ---
-
-## Contact
-
-For inquiries or further discussion, please contact:
-
-- **Name**: Your Full Name  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
