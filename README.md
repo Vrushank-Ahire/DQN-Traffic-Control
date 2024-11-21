@@ -28,7 +28,7 @@ An AI-powered solution for optimizing traffic flow, predicting congestion, and s
 
 ## Technologies Used
 
-- **Reinforcement Learning Framework**: Deep Q-Networks (DQN
+- **Reinforcement Learning Framework**: Deep Q-Networks (DQN)
 ---
 
 ## Getting Started
